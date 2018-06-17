@@ -12,4 +12,4 @@ This example of fragment/activity communication only demonstrates a single desig
 2. Using an EventBus (e.g. GreenRobot).
 
 # Resources:
-- [Official Android documentation on fragment to fragment communication.](https://www.google.com "https://developer.android.com/training/basics/fragments/communicating")
+- [Official Android documentation on fragment to fragment communication.](https://developer.android.com/training/basics/fragments/communicating "https://developer.android.com/training/basics/fragments/communicating")
